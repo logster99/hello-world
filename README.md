@@ -1,4 +1,4 @@
-Playing aroudn to enable SSH
-
-## Developer Log
 # Whatevers
+## Developer Log
+
+Playing aroudn to enable SSH
